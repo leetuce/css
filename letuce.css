@@ -1,10 +1,1 @@
-.navbar-brand::before {
-    content: "Letuce Live - ";
-    font-weight: bold; /* Make the text bold */
-    color: #FFA500; /* Change the color to red */
-    text-shadow: 0 0 10px rgba(255,255,255,0.1); /* Add a blurred shadow effect */
-}
 
-.username {
-    background-color: black;
-}
